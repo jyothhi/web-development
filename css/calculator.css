@@ -1,0 +1,46 @@
+#cal1 {
+    margin:100px;
+    padding: 20px;
+    
+    
+}
+#cal2{
+    border:1px solid black;
+    background-color: cadetblue;
+    height:80px;
+     width:1300px;
+}
+#cal3{
+    margin-top: 20px;
+}
+#g3{
+    margin-top:40px ;
+    margin-right: 1000px;
+    
+}
+#jyo{
+    margin-top: 20px;
+    
+}
+#jaru{
+    margin-top:100px;
+}
+#gailu{
+    
+    margin-left:100px ;
+    border:1px solid black;
+    height:400px;
+    width:400px;
+}
+#cal4{
+    border:1px solid black;
+    height:400px;
+     width:400px;
+     float:left;
+     background-color: cadetblue;
+    
+}
+#bg{
+    background-color:lavender;
+    
+}

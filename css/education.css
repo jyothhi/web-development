@@ -1,0 +1,45 @@
+#r2{
+    margin:100px;
+    padding: 20px;
+    
+}#r1{
+    background-color: skyblue;
+    border:1px solid black ;
+    height:50px;
+    width:300px;
+    margin-left: 100px;
+    
+}
+#r3{
+    
+    margin-left: 10px;
+}
+#r4{
+    margin-top: 40px;
+}
+
+
+.container{
+    max-width: 700px;
+    width:100%;
+    padding: 25px 30px;
+    border-radius: 5px;
+
+}
+#e1{
+    width:325px;
+    margin-top: 15px;
+}
+#e2{
+    width:325px;
+    margin-top: 10px;
+}
+#e3{
+    margin-top: 10px;
+}
+#e5{
+    margin-top: 0.5px;
+}
+
+
+
